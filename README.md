@@ -1,44 +1,43 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://github.com/azsir/meta-wp">
+    <img src="https://i.ibb.co/Qvw8WQY/BG.jpg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> Meta Hydra
 </h1>
 
 <p align="center"> 
-<b>Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+<b> Hi sir , I am "Zihad" an Opensource WhatsApp bot made by <a href="https://github.com/azsir">Zihad 🥀</a> and his team "Meta team" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Meta Hydra - The Future Is Here
 </h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/azsir/meta-wp/fork">
+    <img src="https://img.shields.io/github/forks/azsir/meta-wp?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+  <a href="https://github.com/azsir/meta-wp/stargazers">
+    <img src="https://img.shields.io/github/stars/azsir/meta-wp?style=social">
   </a>
 
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+<a href="https://github.com/azsir/meta-wp">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/azsir/meta-wp.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Author" src="https://img.shields.io/badge/Author-Team Atlas-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/azsir/"><img title="Author" src="https://img.shields.io/badge/Author-Team Atlas-orange.svg?style=for-the-badge&logo=github"></a>
 
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
   
 <img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge'>
 
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-purple.svg?style=for-the-badge"></a>
+<a href="https://github.com/azsir"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-purple.svg?style=for-the-badge"></a>
 <a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-Of Course-green.svg?style=for-the-badge"></a>
 </p>
 <br>
@@ -50,11 +49,11 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <a href="https://github.com/azsir/meta-wp">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
-    <a href="https://youtu.be/R-_DU73UH8Q"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://youtu.be/"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -74,7 +73,7 @@
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     <br>
-    <a href="https://youtu.be/Qs6ryWnEtu8"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://youtu.be/"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -94,7 +93,7 @@
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
-    <a href="https://youtu.be/OvNnpK1Gx6Y"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
+    <a href="https://youtu.be/"><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
     </a>
 </p>
 
@@ -113,11 +112,11 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/azsir/meta-wp">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
-https://youtu.be/R-_DU73UH8Q
+https://youtu.be/
 </p> -->
 
 
@@ -128,7 +127,7 @@ https://youtu.be/R-_DU73UH8Q
 </h4>
 
 <p align="center" >
-<a href="https://chat.whatsapp.com/D4EsvpDVGJT8WbxJVlSwWn"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://cutt.ly/metasupport"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
 <br>
@@ -136,10 +135,10 @@ https://youtu.be/R-_DU73UH8Q
 ---
 <br>
 
-<h2 align="center">⚡️ Atlas MD Platform Compatibility ⚡️
+<h2 align="center">⚡️ Meta Hydra Platform Compatibility ⚡️
 </h2>
 
-- Atlas offers highest platform compatibility.
+- Meta offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
 - More Platform comaptibility coming soon...
 <br>
@@ -164,14 +163,14 @@ https://youtu.be/R-_DU73UH8Q
 
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- if you are lazy to create your own. We have already provided everying you need to run the bot.
 - Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
 - RPG and Economy added ( More coming soon ).
 - Group Chatbot / Dm Chatbot ( Only reply on quoted messages and and be turned off ).
-- 100+ NSFW commands ( Using my own API ). Visit: [My API Page](https://fantox-api.vercel.app) for more info. 
+- 100+ NSFW commands ( Using my own API ).  
 - Highest Commands and Features.
 - User Banning / Group Banning.
 - Highest Security compared to most other public bots.
@@ -179,23 +178,23 @@ https://youtu.be/R-_DU73UH8Q
 <br>
 
 
-<h2 align="center">〽️ Why Should You Use Atlas as your Base 〽️
+<h2 align="center">〽️ Why Should You Use Meta Hydra as your Base 〽️
 </h2>
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Meta  is a `fully open source` bot which means `no copyright`.
+- Meta  is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Meta  is a `multi database bot` which means you can use 3 different databases at the same time.
+- Meta  is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Meta  has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Meta  has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Meta  has 300+ commands.
+- Meta  doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Meta  has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Meta has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Meta is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Meta comes with [MIT](/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 <br>
 
@@ -205,7 +204,6 @@ https://youtu.be/R-_DU73UH8Q
 
 - [Baileys Library](https://github.com/adiwajshing/Baileys)
 - [Insta-Fetcher](https://github.com/Gimenz/insta-fetcher)
-- [FantoX APIs](https://fantox-api.vercel.app/)
 
 <br>
 
@@ -236,7 +234,7 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/FantoX001/Atlas-MD
+git clone https://github.com/azsir/meta-wp
 
 ls
 cd Atlas-MD
@@ -259,7 +257,7 @@ npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/azsir/meta-wp/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
@@ -295,7 +293,7 @@ npm start
 <h2 align="center">🧩 CMD / VS Code / Powershell / Terminal Deployment Method 🧩
 </h2>
 
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+- [Download Updated code](https://github.com/azsir/meta-wp/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
 - Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -321,7 +319,7 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 <h2 align="center">🧣 Contributors 🧣
 </h2>
 
-- Check [Project Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors)
+- Check [Project Contributors](https://github.com/azsir/meta-wp/graphs/contributors)
 - Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
 
 
@@ -351,10 +349,10 @@ Note: If you don't pre-install these plugins before CMD / VS code Installation b
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet Team Meta 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Zihad 🥀](https://github.com/azsir.png)](https://github.com/azsir/)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
 ----|----|----|----|----|----
 [FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
