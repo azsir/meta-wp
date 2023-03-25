@@ -194,7 +194,7 @@ https://youtu.be/
 - Meta  has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
 - Meta has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
 - Meta is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Meta comes with [MIT](/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Meta comes with [MIT](https://github.com/azsir/meta-wp/blob/main/README.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 <br>
 
